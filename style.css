@@ -1,0 +1,119 @@
+header{
+    background-color: rgb(19, 133, 121);
+    text-align: center;
+    padding: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+body {
+    background-image: url("tersius-van-rhyn-DyKlv0ZRCVk-unsplash.jpg");
+    background-color: #cccccc;
+   }
+   .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(59, 44, 44);
+    color: white;
+    text-align: center;
+    padding: 20px;
+ }
+ .hub{
+     display: block;
+     border-color: violet;
+     font-size: 30px;
+     border-radius: 10px;
+ }
+.hab{
+    display: block;
+     border-color: rgb(56, 12, 14);
+     font-size: 30px;
+     position:fixed;
+     left:110px;
+     border-radius: 10px;
+}
+
+.hib{
+    display: block;
+     border-color: rgb(89, 71, 170);
+     font-size: 30px;
+     position:fixed;
+     left:230px;
+     top:150px;
+     border-radius: 10px;
+}
+
+.hob{
+    display: block;
+     border-color: rgb(18, 218, 174);
+     font-size: 30px;
+     position:fixed;
+     left:300px;
+     border-radius: 10px;
+}
+
+.heb{
+    display: block;
+     border-color: rgb(89, 71, 170);
+     font-size: 30px;
+     position:fixed;
+     left:430px;
+     top:150px;
+     border-radius: 10px;
+}
+.hyb{
+    font-size: 30px;
+    border-color: rgba(170, 155, 71, 0.603);
+    position:fixed;
+     left:540px;
+     border-radius: 10px;
+
+}
+#div1 {
+    font-size:48px;
+    position: fixed;
+    left: 820px;
+    top: 70px;
+    color: aqua;
+  }
+  
+.hip{
+    font-size: 30px;
+    border-color: rgba(170, 155, 71, 0.603);
+    position:fixed;
+     left: 40px;
+     top: 300px;
+     border-radius: 10px;
+}
+.did{
+    color: rgb(255, 0, 157);
+    position: fixed;
+    top:300px;
+    background-color: rgb(25, 27, 27);
+    left:100px;
+    padding: 10px;
+    font-size: 24px;
+}
+.hi{
+color: rgb(7, 63, 136);
+position: fixed;
+top:300px;
+background-color: rgb(25, 27, 27);
+left:400px;
+padding: 10px;
+font-size: 24px;
+}
+.lo{
+    
+color: rgb(243, 230, 238);
+position: fixed;
+top:300px;
+background-color: rgb(25, 27, 27);
+left:700px;
+padding: 10px;
+font-size: 24px;
+}
